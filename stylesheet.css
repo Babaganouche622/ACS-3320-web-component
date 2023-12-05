@@ -1,0 +1,11 @@
+h1 {
+  /* center at top of page */
+  position: absolute;
+  top: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+  font-size: 3rem;
+  font-weight: 400;
+  color: #fff;
+  text-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
